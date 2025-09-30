@@ -14,7 +14,6 @@ It includes user authentication, product browsing, cart interaction, and respons
     - PageView for featured products.
     - GridView for product cards.
     - "Hot Offers" section with ListView.
-- **Localization** (Arabic support).
 - Clean & modular code structure.
 
 ---
@@ -22,7 +21,7 @@ It includes user authentication, product browsing, cart interaction, and respons
 ## 🛠 Tools Used
 - Flutter SDK
 - Dart
--  Android Studio
+- Android Studio
 - GitHub
 - SharedPreferences (local storage)
 - Flutter Intl (for localization)
